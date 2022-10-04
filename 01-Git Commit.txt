@@ -1,0 +1,2 @@
+-- Penjelasan -- 
+git commit? Menurut aku, git commit merupakan cara untuk melakukan validasi sebelum "dikumpulkan" ke master branch.
