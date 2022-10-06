@@ -1,2 +1,8 @@
--- Penjelasan -- 
+__  Penjelasan __  
 git commit? Menurut aku, git commit merupakan cara untuk melakukan validasi sebelum "dikumpulkan" ke master branch.
+
+__  Cara __  
+Command line → git commit <opsi>
+
+__ Opsi yang bisa digunakan __
+-m → Jika ingin memberikan penjelasan tentang apa yang dicommit dan banyak file, maka ini merupakan solusi terbaik.
