@@ -1,5 +1,5 @@
 Yeay!!!
 After along time with doing add and commit..finally i did it guys :)
 ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
-How to add a file and push to github? (this is my opinion because what iam doing)
+How to add a file and push to github? (use this if you have done git clone from your repositories :D)
 git add <file> → git commit -m "message/info about what you just commit" → git push -u origin <branch>
